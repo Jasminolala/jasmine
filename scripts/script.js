@@ -1,0 +1,1 @@
+document.getElementById("main-image").style.height = window.innerHeight + "px";
