@@ -1,0 +1,103 @@
+@font-face {
+    font-family: myFirstFont;
+    src: url(../fonts/custom.ttf);
+}
+body {
+	margin: 0;
+	padding: 50px;
+	font-family: myFirstFont;
+}
+
+img {
+	height: 200px;
+	width:  100%;
+}
+ul li {
+	color: #ee6aa7;
+	font-size: 25px;
+}
+
+.btn-button1
+{
+	background-color: grey;
+	color: grey;
+}
+h3{
+	color: #ee6aa7;
+	font-weight: bold;
+	font-size: 40px
+}
+.navbar {
+	background-color: #c9c9c9;
+	border: none;
+	font-size: 60px ;
+}
+.form-inline
+{
+	margin-top: 5px;
+	margin-left: 550px;
+}
+h1#lolo{
+	color:#ee6aa7;
+	margin-left: 25px;
+	margin-top: 25px;
+	font-size: 50px
+}
+
+.navbar li a
+{
+	font-size: 40px;
+}
+p#happy {
+	font-size: 35px;
+	margin-left: 25px;
+	color: #666666;
+	margin-right: 30px;
+}
+img#bateekha {
+	height: auto;
+	width: 90s%;
+	margin-left: 25px
+}
+p#sad{
+	font-weight: bold;
+	color: #666666;
+	font-size: 35px;
+	margin-left: 25px
+}
+p#lala{
+	font-size: 30px;
+	color: #666666;
+	margin-top: 45px;
+	margin-right: 60px;
+}
+div.row{
+	border: 2px solid#666666;
+	margin-left: 20px;
+}
+.btn{
+font-size: 20px;
+}
+h1#lili {
+	color: #ee6aa7;
+	font-weight: bold;
+	font-size: 150px;
+}
+p#jessie{
+	color: #666666;
+	font-weight: bold;
+	font-size: 75px;
+}
+p#laila{
+	color: ;
+	font-weight: bold;
+	font-size: 50px;
+}
+.form-group{
+	font-size: 30px;
+	color: #666666;
+	width:70%;
+}
+.row {
+	width:70%;
+}
